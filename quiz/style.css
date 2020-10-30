@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(13, 154, 209);
+    font-size: 3rem;
+}
+.quiz-area{
+    color:white;
+    font-family: cursive;
+    padding: 0.8rem 1rem;
+    margin: 0.5rem 1rem;
+    background-color: rgb(13, 154, 209);
+}
+h4{
+    font-size: 2.5rem;
+    color:white;
+    text-align: center;
+} 
+p{
+    font-size: 1.2rem;
+}
+.button{
+    text-align: center;
+    display: block;
+    margin-top: 1rem;
+   
+}
+.button button{
+    background-color: white;
+    color: rgb(13, 154, 209);
+    padding: 0.6rem;
+    font-size: 1rem;
+    font-family: cursive;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button button:hover{
+    opacity: 0.5;
+}
+.output{
+    text-align: center;
+    font-size: 1.6rem;
+    background:rgba(0,0,0,0.1);
+    color: rgb(209, 13, 209);
+    padding: 1rem ;
+    margin-bottom: 1.3rem;
+
+}
